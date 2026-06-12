@@ -1,6 +1,6 @@
 # ✊✋✌️ Rock Paper Scissors Game
 
-A simple and interactive desktop console game developed using **C++** that simulates the classic **Rock, Paper, Scissors** game between the player and the computer.
+A simple and interactive  console game developed using **C++** that simulates the classic **Rock, Paper, Scissors** game between the player and the computer.
 
 ## 📖 Overview
 
